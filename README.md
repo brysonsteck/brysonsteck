@@ -1,10 +1,10 @@
-# Hello! My name is Bryson Steck.
+# :wave: Hey there! I'm Bryson.
 
-I am known for various things, including the following:
-- Being a FOSS and Linux geek.
-- Holding a top 20 speedrun in Mario Kart Wii.
-- Bringing Wiimmfi to mobile with [Wiimmfi Watcher](https://github.com/brysonsteck/wiimmfi-watcher).
-- Creating new combat strategies in Minecraft with [Resurrection](https://github.com/brysonsteck/resurrection).
-- And more!
+Linux enthusiast, FOSS admirer, Java programmer, and firm believer that dill pickles are superior.
 
-You can read more about me or these projects on [my website](https://brysonsteck.net). Feel free to browse around!
+I am known for various projects, including but not limited to:
+* Creating new combat strategies in Minecraft with [Resurrection](https://github.com/brysonsteck/resurrection).
+* Bringing [Wiimmfi](https://wiimmfi.de) to mobile with [Wiimmfi Watcher](https://github.com/brysonsteck/wiimmfi-watcher).
+* Brewing the most degenerate Discord bots known to man.
+
+You can read more about me or these projects on [my website](https://brysonsteck.net). Just know that we are on iffy terms if you love bread and butter pickles.

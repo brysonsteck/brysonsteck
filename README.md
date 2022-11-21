@@ -1,3 +1,7 @@
+### :warning: I am working on migrating my codebase to [Codeberg](https://codeberg.org/brysonsteck).
+
+All projects I currently maintain have been migrated, and am in the *slow* process of phasing out GitHub for any new projects and updating maintained repos with this information.
+
 # :wave: Hey there! I'm Bryson.
 
 Linux enthusiast, FOSS admirer, and firm believer that dill pickles are superior.
